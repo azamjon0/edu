@@ -1,0 +1,263 @@
+*{
+    margin: 00px;
+}
+body{
+    background-color: floralwhite;
+}
+
+.aaa{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 50px;
+    padding: 10px 10px 10px px ;
+    background-color: rgb(80, 80, 225);
+}
+
+a{  
+    text-decoration: none;
+    margin: 13px;
+    color:  rgb(255, 255, 255);
+    font-size: 24px;
+}
+.aaaa{
+    float: left;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.aa{
+    float: right;
+    font-size: 20px;
+    background-color:rgba(0, 0, 0, 0.101) ;
+    padding: 5px 5px 5px 5px ;
+    border-radius: 15px;        
+}
+
+    
+
+
+.azamjon {
+    width: 300px ;
+    height: 500px;
+    border-radius: 20px ;
+    background-color: grey;
+    margin: 50px;
+    padding: 20px ;
+}
+h3 {
+    text-align: center;
+}
+
+.www {
+    box-shadow: inset 5px 0 10px ;
+    width: 100%;
+    border-radius: 20px ;
+    margin-bottom: 20px ;
+    position: relative;
+    margin-top: 5px ;
+    height: 30px ;
+    padding-bottom: 10px  ;
+}
+select{
+    border-radius: 20px ;
+    position: relative;
+    top: -63px ;
+    width: 60px ;
+    height: 40px;
+}
+
+
+.dsa {
+    background-color: #ff3b30;
+    color: white;
+    border: none;
+    padding: 15px 18px ;
+    width: 100%;
+    border-radius: 30px ;
+    margin-top: 10px ;
+}
+
+.fd {
+    margin: 30px;
+    box-shadow: 4px 4px 4px 4px wheat;
+    width: 700px;
+    height: 1100px;
+    border-top-left-radius: 50px ;
+    border-top-right-radius: 50px ;
+}
+.fd:hover {
+    transform: translateY(-10px);
+    transition:transform 0.4s;
+    box-shadow: 0 6px 15px  black;
+}
+
+.sa {
+    border-top-left-radius: 50px ;
+    border-top-right-radius:50px ;
+}
+.ds {
+    font-size: 33px;
+    margin-left: 20px;
+}
+.wq {
+    font-size: 29px;
+    padding-left: 60px;
+    color: rgba(0, 0, 0, 0.777);
+}
+li {
+    padding: 10px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.jj {
+    display: flex;
+}
+.ff {
+    display: flex;
+    margin-left:30px ;
+    padding: 10px;
+}
+.gf {
+    padding: 10px;
+    font-size: 22px;
+}
+.an {
+    font-size: 33px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.xc {
+    display: flex;
+    gap: 30px;
+}
+.ot {
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.616);
+    margin-bottom: 60px;
+}
+.za{
+    margin-left: 80px;
+    margin-top: 20px;
+    background-color: rgb(78, 78, 225);
+    width: 500px;
+    color: white;
+    text-align: center;
+    padding: 20px;  
+    border-radius: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.za:hover {
+    transform: translateY(-5px);
+    transition:transform 0.4s;
+    box-shadow: 0 6px 15px  black;
+}
+
+.g {
+    display: flex;
+}
+.fda {
+    margin: 30px;   
+}
+.saa {
+    border-top-left-radius:50px;
+    border-bottom-left-radius:50px;
+}
+
+
+.fff {
+    background-color: red;
+    width: 1511px;
+    margin-top: 40px;
+    height: 250px;
+}
+.p {
+    text-align: center;
+    font-size: 66px;
+    color: wheat;
+}
+.pp{
+    color: wheat;
+}
+.ppp {
+    color: wheat;
+    font-size: 26px;
+    padding-left: 20px;
+}
+.ggg{
+    display: block;
+    float: right;
+    position: relative;
+    top: -130px;
+    color: wheat;
+    font-size: 26px;
+    margin-right:20px ;
+}
+.ffa{
+    padding: 10px;
+    display: block;
+}
+.wqq {
+    display: flex;
+}
+
+.xzz {
+    font-size: 33px;
+    background-color: black;
+    color: white;
+}
+.wqq {
+    background-color: black;
+    padding: 50px;
+}
+.div {
+    margin-left: 230px;
+}
+.zxx {
+    color: burlywood;
+    font-size: 28px;
+}
+.fds {
+    color: rgba(255, 255, 255, 0.729);
+    font-size: 22px;
+    margin-top: 15px;
+}
+.ewe {
+    font-size: 28px;
+    margin-top: 15px;
+    color: white;
+}
+.li {
+    color: rgba(255, 255, 255, 0.729);
+    font-size: 20px;
+} 
+.kkk {
+    color: white;
+    font-size: 28px;
+}
+.fda:hover {
+    transform: translateY(-10px);
+    transition:transform 0.4s;
+    box-shadow: 0 6px 15px  rgb(0, 153, 255);
+    border-radius: 10px;
+}
+.zsa {
+    background-color: rgb(78, 78, 225);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 33px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-left: 80px;
+}
+.ewq {
+    margin-bottom: 20px;
+}
+.ddk {
+    font-size: 33px;
+    margin-left: 20px;
+}
+.x {
+    margin-left: 150px;
+}
